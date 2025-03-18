@@ -1,0 +1,1 @@
+senha_armazenada = 123456
